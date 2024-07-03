@@ -1,4 +1,4 @@
-# PowerOFTwo
+# WebforPowerOFTwo
 
 This program determines if a given number is a power of 2. A number n is a power of 2 if it meets the following condition: n = 2^m where m is another integer number. E.g 4 = 2^2 or 16 = 2^4 are power of 2 numbers while 24 is not.
 
